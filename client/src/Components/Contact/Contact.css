@@ -1,0 +1,19 @@
+.btns {
+  display: flex;
+  justify-content: space-around;
+  padding: 30% 0%;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgba(94, 94, 94, 0.452) !important;
+  width: 30%;
+  margin: 1%;
+  padding: 2% 3%;
+}
+
+.text {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+}

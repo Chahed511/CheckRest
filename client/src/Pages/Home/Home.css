@@ -1,0 +1,11 @@
+.home {
+  display: flex;
+  justify-content: space-around;
+  margin: 4% 40%;
+
+}
+.btn-primary {
+  color: #fff;
+  background-color: #04284ee8 !important;
+  border-color: #04284ebd !important;
+}
